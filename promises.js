@@ -46,3 +46,5 @@ Promise.all([
     console.log(msg);
     
 })
+//this is all that i learned from today ahh i seee
+rm -f .git/index.lock
